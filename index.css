@@ -1,0 +1,40 @@
+.background {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 174.5px);
+  border-radius: 23px;
+  background: linear-gradient(180deg, #e1c21e, rgba(240, 83, 168, 0));
+  width: 349px;
+  height: 447px;
+}
+.om-edited-logo-2023-09-22-1 {
+  position: absolute;
+  top: 9px;
+  left: calc(50% + 10.5px);
+  border-radius: 10px;
+  width: 162px;
+  height: 162px;
+  object-fit: cover;
+}
+.text-header {
+  position: absolute;
+  top: 9px;
+  left: calc(50% - 165.5px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 188px;
+  height: 53px;
+  mix-blend-mode: normal;
+}
+.iphone-14-15-pro-max-1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 643px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: 21px;
+  color: #000;
+  font-family: var(--font-inconsolata);
+}
